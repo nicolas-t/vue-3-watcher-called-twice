@@ -1,4 +1,6 @@
-# keep-alive-vue-3
+# vue-3-watcher-called-twice
+
+see https://vue-3-watcher-called-twice.netlify.app
 
 ## Project setup
 ```
@@ -9,11 +11,3 @@ yarn install
 ```
 yarn serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
